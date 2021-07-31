@@ -1,0 +1,17 @@
+>>TO_DO_LIST
+
+
+--Here we have created a todo list.
+
+--We have used a local server 3000 to perform the operation.
+
+--Created a design with styling via html and css.
+
+--Used various attributes of css to create a good style for my webapp.
+
+--Used javascript to add functionality to our webapp which include adding and deleting of data as required.
+
+--We have also created a custom-based pages which can we visited by adding the name after localhost:3000/name
+having the same functionality as the homepage,where we have used ejs to avoid repetition.
+
+--Database used here is mongodb(mongoose).
